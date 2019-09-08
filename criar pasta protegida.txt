@@ -1,0 +1,25 @@
+Microsoft Windows [versão 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\jessica>cd..
+
+C:\Users>cd..
+
+C:\>cd fontes
+
+C:\Fontes>cd php
+O sistema não pode encontrar o caminho especificado.
+
+C:\Fontes>cd phpMyAdmin
+
+C:\Fontes\phpMyAdmin>cd trunk
+
+C:\Fontes\phpMyAdmin\trunk>cd..
+
+C:\Fontes\phpMyAdmin>cd..
+
+C:\Fontes>cd..
+
+C:\>md \\.\C:\Fontes\phpMyAdmin\trunk\.circleci
+
+C:\>
